@@ -12,3 +12,7 @@ A simple calculator built using HTML, CSS and JavaScript.
 - HTML
 - CSS
 - JavaScript
+
+## Live Demo
+🔗 https://anshu-dha.github.io/basic-calculator-project/
+

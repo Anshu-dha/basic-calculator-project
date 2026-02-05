@@ -16,3 +16,9 @@ A simple calculator built using HTML, CSS and JavaScript.
 ## Live Demo
 🔗 https://anshu-dha.github.io/basic-calculator-project/
 
+## Preview
+![Project Preview](preview1.png)
+![Project Preview](preview2.png)
+
+
+
